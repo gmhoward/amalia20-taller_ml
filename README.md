@@ -6,11 +6,9 @@ Utilizaremos la plataforma interactiva Jupyter Notebooks para ejecutar el codigo
 
 Por favor sigue los siguientes instrucciones para instalar y configurar todo el software necesario antes de comenzar el taller.
 
-__Pre-requisitos__
+__Preparacion para el Taller__
 
-*Opcion A: Usar Google Colaboratory*
-
-Google Colaboratory (Colab) es un servicio de Google Cloud que te permite escribir y ejecutar codigo Python desde tu navegador web, lo que reduce significamente la necesidad de instalar o configurar, ofrece el acceso a procesadores especializados para ML y permite facilmente compartir tus archivos.
+Utilizaremos *Google Colaboratory (Colab)* para trabajar todos los laboratorios del taller. Colab es un servicio de Google Cloud que te permite escribir y ejecutar codigo Python desde tu navegador web, lo que reduce significamente la necesidad de instalar o configurar, ofrece el acceso a procesadores especializados para ML y permite facilmente compartir tus archivos.
 
 Esta opcion elimina la necesidad de instalar paquetes pero requiere acceso al Internet para interactuar (ejecutar y editar) el codigo.
 
