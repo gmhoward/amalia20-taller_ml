@@ -1,4 +1,4 @@
-# Taller: Introduccion a Machine Learning usando Python
+# Taller: Introducción a Ciencia de Datos y Machine Learning con Python
 
 Interesada/o en aprender sobre machine learning (ML) pero no sabes por dónde empezar? 
 Confundida/o sobre si ML y data science significan lo mismo? Tienes un dataset que deseas analizar? 
