@@ -17,6 +17,7 @@ Para participar en el taller sólo se necesita:
 - una computadora con acceso al Internet
 - un navegador web como Google Chrome (preferible) o Mozilla Firefox
 - una cuenta de Google. Si usas GMail, ya posees una cuenta. Si no tienes una, sigue las siguientes instrucciones: [Cómo crear una Cuenta de Google](https://support.google.com/accounts/answer/27441?hl=es-419). 
+
 No es necesario instalar software adicional ya que todos los ejercicios se realizarán por medio del navegador web.
 
 __Preparación para el Taller__
