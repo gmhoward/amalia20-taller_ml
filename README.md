@@ -45,7 +45,7 @@ utilizar.
 - Luego de unos segundos, aparecerá la lista de repositorios (bajo `Repository`). Selecciona la opción 
 `gmhoward/amalia20-taller-ml` para listar los archivos del taller.
 
-- Haz doble click sobre el archivo `00-prueba_con_colaboratory.iynb` para abrirlo en Colab.
+- Haz doble click sobre el archivo `00-prueba_con_colaboratory.ipynb` para abrirlo en Colab.
 
 ![Colab Intro](img/colab-intro_espanol.png)
 
