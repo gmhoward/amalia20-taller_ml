@@ -2,7 +2,7 @@
 
 Interesada/o en aprender sobre machine learning (ML) pero no sabes por dónde empezar? 
 Confundida/o sobre si ML y data science significan lo mismo? Tienes un dataset que deseas analizar? 
-En este taller veremos los conceptos basicos de ML, aprenderemos a explorar y preparar datasets y 
+En este taller veremos los conceptos básicos de ML, aprenderemos a explorar y preparar datasets y 
 utilizaremos algoritmos de ML para construir modelos que nos permitirán extraer información, 
 utilizando el popular lenguaje de programación Python.
 
@@ -20,7 +20,19 @@ Para participar en el taller sólo se necesita:
 
 No es necesario instalar software adicional ya que todos los ejercicios se realizarán por medio del navegador web.
 
-__Preparación para el Taller__
+## __AMALIAconf 2020__
+Este taller fue presentado el 24 de Octubre de 2020, durante el primer día de la 
+[Conferencia AMALIA 2020](https://amaliaconf.org/). Los expositores y creadores del contenido del taller son:
+- Gaspar Modelo Howard [LinkedIn](https://www.linkedin.com/in/gmhoward/) [Github](https://github.com/gmhoward)
+- Adrian Beiertz [LinkedIn](https://www.linkedin.com/in/adriaanbd/) [Github](https://github.com/adriaanbd)
+- Eliana Arjona [LinkedIn](https://www.linkedin.com/in/eliana-arjona-b893b0128/) [Github](https://github.com/ElianaArjona)
+- Yiseika Saavedra [LinkedIn](https://www.linkedin.com/in/yiseika-saavedra-9ab795171/) [Github](https://github.com/Vanessa1114)
+
+La grabación de este taller está disponible en YouTube. Puedes utilizarla junto a las instrucciones que presentamos 
+abajo, para seguir el taller a tu ritmo:
+[![AMALIA20 - Taller ML con Python](img/amalia20-yt-grabacion.png)](https://youtu.be/mNIXZCw1Uvo?t=26 "Aprieta aquí para ver el video en YouTube!")
+
+## __Preparación para el Taller__
 
 Utilizaremos *Google Colaboratory (Colab)* para trabajar todos los laboratorios del taller. Colab es 
 un servicio de Google Cloud que te permite escribir y ejecutar código Python desde tu navegador web, 
